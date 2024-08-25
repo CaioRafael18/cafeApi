@@ -1,4 +1,7 @@
-venv
-controleestoque.db
-temp.txt
-*.pyc
+venv/
+__pycache__/
+Globals.py
+requirements.txt
+.vscode/
+__init__.py
+LICENSE
